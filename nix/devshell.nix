@@ -12,7 +12,6 @@ pkgs.mkShell {
 
     # Formatting (required by justfile)
     llvmPackages_22.clang-tools
-    llvmPackages_22.libclang
     gnugrep
     gnused
     findutils
